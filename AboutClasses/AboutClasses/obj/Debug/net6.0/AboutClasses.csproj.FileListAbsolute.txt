@@ -1,0 +1,15 @@
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\AboutClasses.exe
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\AboutClasses.deps.json
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\AboutClasses.runtimeconfig.json
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\AboutClasses.dll
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\ref\AboutClasses.dll
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\bin\Debug\net6.0\AboutClasses.pdb
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.csproj.AssemblyReference.cache
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.AssemblyInfoInputs.cache
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.AssemblyInfo.cs
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.csproj.CoreCompileInputs.cache
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.dll
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\ref\AboutClasses.dll
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.pdb
+C:\Users\aravula\source\repos\AboutClasses\AboutClasses\obj\Debug\net6.0\AboutClasses.genruntimeconfig.cache
